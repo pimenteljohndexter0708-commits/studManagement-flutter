@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Downloads/studManagement-flutter-files/config"
+		},
+		{
+			"path": "../../Downloads/studManagement-flutter-files/lib"
+		},
+		{
+			"path": "../../Downloads/studManagement-flutter-files/scripts"
+		},
+		{
+			"path": "../../Downloads/studManagement-flutter-files/test"
+		},
+		{
+			"path": "../../Downloads/studManagement-flutter-files/.devcontainer"
+		},
+		{
+			"path": "../../Downloads/studManagement-flutter-files/.github"
+		}
+	],
+	"settings": {}
+}
